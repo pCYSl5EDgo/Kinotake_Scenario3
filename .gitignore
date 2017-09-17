@@ -1,4 +1,5 @@
 bgm/*
+!bgm/yggdrasil_midgard_version.mp3
 stage/*
 !stage/pCYSl5EDgo_*.map
 chip/*
