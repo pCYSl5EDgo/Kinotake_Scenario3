@@ -21,6 +21,11 @@ icon/*
 !icon/sphere.png
 image/*
 !image/win_special_world.png
+!image/kokusakum1.png
+!image/kokusakum2.png
+!image/kokusakum3.png
+!image/kokusakum4.png
+!image/kokusakum5.png
 script/.vscode/*
 script/*/*.zip
 sound/*
