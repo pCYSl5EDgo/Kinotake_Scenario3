@@ -3,6 +3,8 @@ stage/*
 !stage/pCYSl5EDgo_*.map
 chip/*
 !chip/braver.png
+!chip/zzz_u_pike.png
+!chip/zzz_u_summon.png
 !chip/ChestTableMan.png
 !chip/DragoonMan.png
 !chip/chip_l_inf_sn.png
